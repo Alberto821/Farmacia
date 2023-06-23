@@ -1,0 +1,14 @@
+form{
+    text-align: center;
+}
+label{
+    height: 15px;
+    width: 54px;
+    background-color: white;
+    padding: 4px;
+}
+input{
+     font-size: 50px;
+     margin: 10px;
+     padding: 10px;
+}
